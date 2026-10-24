@@ -7,6 +7,8 @@ prefs = ["zen.workspaces.separate-essentials=true"]
 
 ["browser_container_auto_switch.js"]
 
+["browser_container_extension_boundary.js"]
+
 ["browser_container_specific_essentials.js"]
 
 ["browser_issue_15588.js"]
